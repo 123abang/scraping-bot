@@ -1,0 +1,5 @@
+requests
+pandas
+python-dotenv
+streamlit        # if you’re using Streamlit
+flask            # if you’re using the Flask version

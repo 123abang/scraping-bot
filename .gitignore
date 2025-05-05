@@ -1,0 +1,36 @@
+# Byte-compiled Python files
+
+**pycache**/
+\*.py\[cod]
+\*\$py.class
+
+# Environment variable files
+
+.env        # Primary environment file containing secrets
+.env.\*      # Ignore any other .env variants (e.g., .env.local)
+
+# Data files
+
+uk\_logistics\_companies.csv
+
+# Virtual environments
+
+venv/
+env/
+
+# macOS system files
+
+.DS\_Store
+
+# IDE/editor settings
+
+.vscode/
+.idea/
+
+# Log files
+
+\*.log
+
+# Chart and report outputs
+
+\*.png
